@@ -1,0 +1,26 @@
+{
+      "name": "Zavier Lowe",
+      "website": "https://tomatohammado.github.io/",
+      "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+      "github": "tomatohammado",
+      "email": "hammad.malik@generalassemb.ly",
+      "resume": "New Ideas",
+      "proficientTechnologies": [
+          "Javascript",
+          "React",
+          "Vue",
+          "Node",
+          "Express",
+          "Mongodb",
+          "PostgreSQL",
+          "Python",
+          "Django",
+          "Wordpress",
+          "Drupal"
+      ],
+      "otherSkills": [
+          "Unagi",
+          "Five Finger Fillet",
+          "Bridge"
+      ]
+  }
